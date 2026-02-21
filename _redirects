@@ -1,1 +1,15 @@
+# Old Paleen Manor pages → paleenmanor.com
+/Paleen%20Manor/* https://paleenmanor.com 301
+/Paleen%20Manor https://paleenmanor.com 301
 
+# Old Mill Pond pages → millpondoffices.com
+/Mill%20Pond/* https://millpondoffices.com 301
+/Mill%20Pond https://millpondoffices.com 301
+
+# Old site pages → homepage
+/services.html / 301
+/gallery.html / 301
+/contact.html / 301
+
+# Catch-all: serve homepage for any unknown path
+/* /index.html 200
